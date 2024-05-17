@@ -21,4 +21,4 @@ Para criar uma discussion é bem simples, veja nos passos abaixo:
 
 Aqui você vai informar um título breve sobre sua dúvida, um texto explicando sua dúvida e um `label` para ajudar na classificação da sua dúvida.
 
-![[banner4.png]]
+![](banner4.png)
