@@ -22,3 +22,7 @@ Para criar uma discussion é bem simples, veja nos passos abaixo:
 Aqui você vai informar um título breve sobre sua dúvida e um texto explicando sua dúvida.
 
 ![](banner4.png)
+
+---
+
+Faça sua pergunta [aqui](https://github.com/orgs/tostrings/discussions)
