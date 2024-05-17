@@ -19,6 +19,6 @@ Para criar uma discussion é bem simples, veja nos passos abaixo:
 ---
 3. Informe sua dúvida.
 
-Aqui você vai informar um título breve sobre sua dúvida, um texto explicando sua dúvida e um `label` para ajudar na classificação da sua dúvida.
+Aqui você vai informar um título breve sobre sua dúvida e um texto explicando sua dúvida.
 
 ![](banner4.png)
